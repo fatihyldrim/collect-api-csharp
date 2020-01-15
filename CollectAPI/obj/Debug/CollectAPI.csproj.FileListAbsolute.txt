@@ -1,0 +1,10 @@
+C:\_Fatih\Çalışmalarım\C#\CollectAPI\CollectAPI\bin\Debug\CollectAPI.exe.config
+C:\_Fatih\Çalışmalarım\C#\CollectAPI\CollectAPI\bin\Debug\CollectAPI.exe
+C:\_Fatih\Çalışmalarım\C#\CollectAPI\CollectAPI\bin\Debug\CollectAPI.pdb
+C:\_Fatih\Çalışmalarım\C#\CollectAPI\CollectAPI\obj\Debug\CollectAPI.csprojAssemblyReference.cache
+C:\_Fatih\Çalışmalarım\C#\CollectAPI\CollectAPI\obj\Debug\CollectAPI.csproj.CoreCompileInputs.cache
+C:\_Fatih\Çalışmalarım\C#\CollectAPI\CollectAPI\obj\Debug\CollectAPI.exe
+C:\_Fatih\Çalışmalarım\C#\CollectAPI\CollectAPI\obj\Debug\CollectAPI.pdb
+C:\_Fatih\Çalışmalarım\C#\CollectAPI\CollectAPI\bin\Debug\Newtonsoft.Json.dll
+C:\_Fatih\Çalışmalarım\C#\CollectAPI\CollectAPI\bin\Debug\Newtonsoft.Json.xml
+C:\_Fatih\Çalışmalarım\C#\CollectAPI\CollectAPI\obj\Debug\CollectAPI.csproj.CopyComplete
